@@ -15,8 +15,8 @@ function Scoreboard(props) {
       <h2>Click each HP character once... if you click on anyone more than once, you'll be obliviated!</h2></div>
       </div>
         <div className="row">
-          <div className="col-md-6"><h6>Current Score: {props.topScore}</h6></div>
-          <div className="col-md-6"><h6>High Score {props.score}</h6></div>
+          <div className="col-md-6"><h6>High Score: {props.topScore}</h6></div>
+          <div className="col-md-6"><h6>Current Score: {props.score}</h6></div>
         </div>
         {/* </jumbotron> */}
     </header>
