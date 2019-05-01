@@ -36,7 +36,7 @@
     },
     {
       "id": 8,
-      "image": "/clicky-game/assets/images/neville.png",
+      "image": "assets/images/neville.png",
       "name": "Neville Longbottom"
     },
     {
@@ -57,6 +57,6 @@
     {
       "id": 12,
       "image": "assets/images/lordVoldemort.png",
-      "name": "Voldemort"
+      "name": "Lord Voldemort"
     }
   ]
