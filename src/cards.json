@@ -1,37 +1,37 @@
 [
     {
       "id": 1,
-      "image": "/clicky-game/assets/images/harryP.png",
+      "image": "assets/images/harryP.png",
       "name": "Harry Potter"
     },
     {
       "id": 2,
-      "image": "/clicky-game/assets/images/hermione.png",
+      "image": "assets/images/hermione.png",
       "name": "Hermione Granger"
     },
     {
       "id": 3,
-      "image": "/clicky-game/assets/images/ron.png",
+      "image": "assets/images/ron.png",
       "name": "Ronald Weasley"
     },
     {
       "id": 4,
-      "image": "/clicky-game/assets/images/dumbledore.png",
+      "image": "assets/images/dumbledore.png",
       "name": "Albus Dumbledore"
     },
     {
       "id": 5,
-      "image": "/clicky-game/assets/images/mcgonagall.png",
+      "image": "assets/images/mcgonagall.png",
       "name": "Minerva McGonagall"
     },
     {
       "id": 6,
-      "image": "/clicky-game/assets/images/snape.png",
+      "image": "assets/images/snape.png",
       "name": "Severus Snape"
     },
     {
       "id": 7,
-      "image": "/clicky-game/assets/images/hagrid.png",
+      "image": "assets/images/hagrid.png",
       "name": "Rubeus Hargrid"
     },
     {
@@ -41,22 +41,22 @@
     },
     {
       "id": 9,
-      "image": "/clicky-game/assets/images/ginny.png",
+      "image": "assets/images/ginny.png",
       "name": "Ginny Weasley"
     },
     {
       "id": 10,
-      "image": "/clicky-game/assets/images/luna.png",
+      "image": "assets/images/luna.png",
       "name": "Luna Lovegood"
     },
     {
       "id": 11,
-      "image": "/clicky-game/assets/images/malfoy.png",
+      "image": "assets/images/malfoy.png",
       "name": "Draco Malfoy"
     },
     {
       "id": 12,
-      "image": "/clicky-game/assets/images/lordVoldemort.png",
+      "image": "assets/images/lordVoldemort.png",
       "name": "Voldemort"
     }
   ]
