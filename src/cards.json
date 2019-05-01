@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "assets/images/harryP.png",
+      "image": "images/harryP.png",
       "name": "Harry Potter"
     },
     {
       "id": 2,
-      "image": "assets/images/hermione.png",
+      "image": "images/hermione.png",
       "name": "Hermione Granger"
     },
     {
       "id": 3,
-      "image": "assets/images/ron.png",
+      "image": "images/ron.png",
       "name": "Ronald Weasley"
     },
     {
       "id": 4,
-      "image": "assets/images/dumbledore.png",
+      "image": "images/dumbledore.png",
       "name": "Albus Dumbledore"
     },
     {
       "id": 5,
-      "image": "assets/images/mcgonagall.png",
+      "image": "images/mcgonagall.png",
       "name": "Minerva McGonagall"
     },
     {
       "id": 6,
-      "image": "assets/images/snape.png",
+      "image": "images/snape.png",
       "name": "Severus Snape"
     },
     {
       "id": 7,
-      "image": "assets/images/hagrid.png",
+      "image": "images/hagrid.png",
       "name": "Rubeus Hargrid"
     },
     {
       "id": 8,
-      "image": "assets/images/neville.png",
+      "image": "images/neville.png",
       "name": "Neville Longbottom"
     },
     {
       "id": 9,
-      "image": "assets/images/ginny.png",
+      "image": "images/ginny.png",
       "name": "Ginny Weasley"
     },
     {
       "id": 10,
-      "image": "assets/images/luna.png",
+      "image": "images/luna.png",
       "name": "Luna Lovegood"
     },
     {
       "id": 11,
-      "image": "assets/images/malfoy.png",
+      "image": "images/malfoy.png",
       "name": "Draco Malfoy"
     },
     {
       "id": 12,
-      "image": "assets/images/lordVoldemort.png",
+      "image": "images/lordVoldemort.png",
       "name": "Lord Voldemort"
     }
   ]
