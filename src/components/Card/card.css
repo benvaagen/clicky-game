@@ -6,6 +6,7 @@
     margin: 0 auto 30px;
     text-align: center;
     border: none !important;
+  
     background: none;
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -26,7 +27,7 @@
     width: 100%;
     height: 100%;
     
-    filter: blur(10px);
+    filter: blur(5px);
     background-repeat: no-repeat;
     
   }
@@ -37,7 +38,7 @@
     background-repeat: no-repeat;
   }
   
-  .overlay {
+  /* .overlay {
     position: absolute;
     top: 0;
     bottom: 100%;
@@ -53,5 +54,5 @@
     border-radius: 50%;
     /* cursor:cell; */
     /* cursor:crosshair; */
-    /* cursor:progress; */
-  }
+    /* cursor:progress; 
+  } */
